@@ -52,7 +52,7 @@
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/worldcup-2026-tracker-cli.git
+git clone https://github.com/a-sharif0/worldcup-2026-tracker-cli.git
 cd worldcup-2026-tracker-cli
 ```
 
